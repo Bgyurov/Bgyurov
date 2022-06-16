@@ -41,7 +41,8 @@
 
 
 ### ⚡ Fun fact: 
-- I like playing video games :D <p></p>
+- I like playing video games :D 
+      <br> </br>
 <a href="https://steamcommunity.com/id/Hdkxhckdk0536/">![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 
