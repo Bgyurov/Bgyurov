@@ -33,16 +33,16 @@
 <a href="https://www.linkedin.com/in/boyan-gyurov-8276b0239/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-https://www.instagram.com/boyan_gyurov8/
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-https://www.facebook.com/profile.php?id=100012499021560
+<a href="https://www.instagram.com/boyan_gyurov8/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+<a href="https://www.facebook.com/profile.php?id=100012499021560">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 
 
 
 ### ⚡ Fun fact: 
 - I like playing video games :D <p></p>
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-  https://steamcommunity.com/id/Hdkxhckdk0536/
+<a href="https://steamcommunity.com/id/Hdkxhckdk0536/">![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
 
 - You can message me to play some games if I can find the time to! <3
