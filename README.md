@@ -43,6 +43,8 @@
 
 ### ⚡ Fun fact: 
 - I like playing video games :D 
+- I'm interested in investing.
+- Love to play and watch football and airsoft
       <br> </br>
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
