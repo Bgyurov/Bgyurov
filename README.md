@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2688b6c-cb9f-4185-a531-54dddad3a868/deploy-status)](https://app.netlify.com/sites/gyurovsite/deploys)
 
 - 🌱 learning:<p></p>
       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
