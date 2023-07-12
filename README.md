@@ -1,7 +1,8 @@
-### Hi there 👋
+## 👋 Introduction & Bio
+💻 I am Boyan Gyurov and I am passionate and hardworking <strong>Software Engineer</strong> who loves to write code and solve problems. I have interest in <strong>Web Development</strong> and <strong>Software Engineering</strong> fields and am seeking new and exciting opportunities related to them.
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+🧠 <strong>JavaScript</strong> is my main programming language , but also i learn React Lib and Bootstrap.
+
 
 
 
