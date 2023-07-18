@@ -16,6 +16,7 @@
       ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
       ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
         ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+  ![Handlebars](https://img.shields.io/badge/Handlebars-000000.svg?style=for-the-badge&logo=Handlebars&logoColor=white)
 
 
 ### GitHub stats
