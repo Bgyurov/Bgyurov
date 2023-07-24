@@ -1,7 +1,7 @@
 ## 👋 Introduction & Bio
 💻 I am Boyan Gyurov and I am passionate and hardworking <strong>Software Engineer</strong> who loves to write code and solve problems.I'm currently at SoftUni Web Developer trail on the JS Web module, Front-End course. I graduated from the National Vocational High School of Computer Technologies and Systems in Pravets, profile System Programmer. I have interest in <strong>Web Development</strong> and <strong>Software Engineering</strong> fields and am seeking new and exciting opportunities related to them.
 
-🧠 <strong>JavaScript</strong> is my main programming language , but also i learn React Lib and Bootstrap.
+🧠 <strong>JavaScript</strong> is my main programming language .
 
 
 
