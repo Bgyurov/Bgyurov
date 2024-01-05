@@ -30,6 +30,7 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Bgyurov&style=for-the-badge&color=brightgreen)
+
  
 
 
@@ -40,14 +41,11 @@
 
 
 ### How to connect with me:
-<a href="https://www.linkedin.com/in/boyan-gyurov-8276b0239/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyan-gyurov-8276b0239/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/boyan_gyurov8/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012499021560)
 
-
-<a href="https://www.instagram.com/boyan_gyurov8/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-<a href="https://www.facebook.com/profile.php?id=100012499021560">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-<br>
-<a href="https://gyurov.netlify.app/">Portfolio</a>
+[Portfolio](https://gyurov.netlify.app/)
 
 
 
