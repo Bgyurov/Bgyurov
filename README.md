@@ -46,15 +46,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012499021560)
 
 [Portfolio](https://gyurov.netlify.app/)
-
-
-
-### ⚡ Fun fact: 
-- I like playing video games :D 
-- I'm interested in investing.
-- Love to play and watch football and airsoft
-      <br> </br>
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-
-- You can message me to play some games if I can find the time to! <3
